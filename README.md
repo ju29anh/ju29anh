@@ -12,28 +12,51 @@
 
 <br/>
 
-## `$ cat profile.json`
+## About
 
-```json
-{
-  "name"      : "Nguyen Hoang Anh",
-  "alias"     : "Ju",
-  "dob"       : "29 / 07 / 2004",
-  "location"  : "Ho Chi Minh City, Vietnam",
-  "university": "Thu Dau Mot University",
-  "major"     : "Software Engineering  (2022 – 2026)",
-  "website"   : "https://29juanh.id.vn/",
-  "portfolio" : "https://ju29anh.github.io/nguyenanh29/",
-  "email"     : "giaa32087@gmail.com",
-  "phone"     : "+84 388 486 348",
-  "status"    : "open_to_work",
-  "focus"     : ["Flutter", "Android System", "AI Integration", "Make in Vietnam"]
-}
-```
+<p align="left">
+  <img src="https://img.shields.io/badge/Nguyen%20Hoang%20Anh%20%28Ju%29-Software%20Engineer-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=161b22"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-238636?style=for-the-badge&logoColor=white"/>
+</p>
 
-Mobile & Flutter developer focused on clean, maintainable code.  
-Passionate about Android system-level engineering, AI workflow integration, and building production-ready products.  
-Strong believer in **Make in Vietnam** technology.
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+
+![](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City%2C%20Vietnam-161b22?style=flat-square&labelColor=0d1117&logo=googlemaps&logoColor=8b949e)
+
+![](https://img.shields.io/badge/University-Thu%20Dau%20Mot%20%282022--2026%29-161b22?style=flat-square&labelColor=0d1117&logoColor=8b949e)
+
+![](https://img.shields.io/badge/Website-29juanh.id.vn-161b22?style=flat-square&labelColor=0d1117&logo=googlechrome&logoColor=58a6ff)
+
+![](https://img.shields.io/badge/Portfolio-ju29anh.github.io-161b22?style=flat-square&labelColor=0d1117&logo=github&logoColor=58a6ff)
+
+</td>
+<td width="50%">
+
+![](https://img.shields.io/badge/DOB-29%20%2F%2007%20%2F%202004-161b22?style=flat-square&labelColor=0d1117&logo=googlecalendar&logoColor=8b949e)
+
+![](https://img.shields.io/badge/Email-giaa32087%40gmail.com-161b22?style=flat-square&labelColor=0d1117&logo=gmail&logoColor=8b949e)
+
+![](https://img.shields.io/badge/Phone-%2B84%20388%20486%20348-161b22?style=flat-square&labelColor=0d1117&logo=signal&logoColor=8b949e)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-161b22?style=flat-square&logo=flutter&logoColor=58a6ff"/>
+  <img src="https://img.shields.io/badge/Android%20System-161b22?style=flat-square&logo=android&logoColor=8b949e"/>
+  <img src="https://img.shields.io/badge/AI%20Integration-161b22?style=flat-square&logo=openai&logoColor=8b949e"/>
+  <img src="https://img.shields.io/badge/Make%20in%20Vietnam-161b22?style=flat-square&logoColor=8b949e"/>
+</p>
+
+> Mobile & Flutter developer focused on clean, maintainable code. Passionate about Android system-level engineering, AI workflow integration, and building production-ready products. Strong believer in **Make in Vietnam** technology.
 
 ---
 
